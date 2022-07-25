@@ -14,7 +14,7 @@ class Google extends Response implements ProductInterface
     public function dataManipulation($priceIncrease)
     {
         foreach ($this->data as $key => $item) {
-            $this->data[$key]['quotation'] = $item['price'];
+            $this->data[$key]['quantity'] = $item['price'];
             unset($this->data[$key]['price']);
         }
         return $this->data;
