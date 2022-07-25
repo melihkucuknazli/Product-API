@@ -4,7 +4,7 @@
 - Facebook (Class)
 - Google (Class)
 
-## Platform göre veri ayarı:
+## Platforma göre veri ayarı:
 dev.ini 
 ```dev.ini
 company=Facebook
