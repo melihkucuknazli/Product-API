@@ -4,7 +4,7 @@
 - Facebook (Class)
 - Google (Class)
 
-## Firmaya göre veri ayarı:
+## Platform göre veri ayarı:
 dev.ini 
 ```dev.ini
 company=Facebook
@@ -14,7 +14,7 @@ priceIncrease=100
 
 | KEY | VALUE |
 | ------ | ------ |
-| company | Firma adı (Cimri,Facebook,Google) |
+| company | Platform adı (Cimri,Facebook,Google) |
 | responseType | Veri tipi (JSON,XML) |
 | priceIncrease | Fiyat artış oranı |
 
